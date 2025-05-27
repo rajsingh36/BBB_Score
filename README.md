@@ -5,4 +5,4 @@ Usage: python BBB_Score_RS.py   (update the input file name in the code)
 
 Input: input.sdf, a SD file, with a pKa_mb column.
 
-Returns: An 'output.sdf' file with an added BBB_Score_RS column.
+Returns: output.sdf file with an added BBB_Score_RS column.
